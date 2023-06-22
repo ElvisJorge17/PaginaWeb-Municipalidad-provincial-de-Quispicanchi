@@ -1,0 +1,117 @@
+[
+  {
+    "name": "Inicio",
+    "id": 10
+  },
+  {
+    "name": "Nuestra Provincia",
+    "id": 20,
+    "children": [
+      {
+        "id": 21,
+        "name": "Ubicacion"
+      },
+      {
+        "id": 22,
+        "name": "Festividades"
+        
+      }
+    ]
+  },
+  
+
+  {
+    "name": "La Municipalidad",
+    "id": 30,
+    "children": [
+      
+      {
+        "name": "Alcaldia",
+        "id": 31
+      },
+      {
+        "name": "Consejo Municipal",
+        "id": 32,
+        "children": [
+          { "name": "Regidores", "id": 33 },
+          { "name": "Comisiones", "id": 34 }
+          
+        ]
+      },
+      {
+        "name": "Misión y Visión",
+        "id": 35
+      }
+    ]
+  },
+
+  {
+    "name": "Servicios Municipales",
+    "id": 40,
+    "children": [
+      {
+        "id": 41,
+        "name": "Mesa de partes virtual"
+      }
+      
+    ]
+  },
+
+  {
+    "name": "Cotizaciones en linea",
+    "id": 50,
+    "children": [
+      {
+        "id": 51,
+        "name": "Servicio de profesionaes para el órgano de control interno"
+      }
+    ]
+  },
+
+  {
+    "name": "Convocatoria CAS",
+    "id": 60
+  },
+
+  {
+    "name": "Normatividades",
+    "id": 70,
+    "children": [
+      {
+        "id": 71,
+        "name": "Instrumentos de gestión"
+      },
+      {
+        "id": 72,
+        "name": "Normas emitidas",
+        "children": [
+          {
+            "id": 73,
+            "name": "Resoluciones de alcaldía"
+          },
+          {
+            "id": 74,
+            "name": "Decretos de alcaldía"
+          },
+          {
+            "id": 75,
+            "name": "Acuerdos de concejo"
+          },
+          {
+            "id": 76,
+            "name": "Ordenanzas municipales"
+          }
+        ]
+      },
+      {
+        "id": 77,
+        "name": "Directivas"
+      }
+    ]
+  },
+
+  {
+    "name": "Contacto",
+    "id": 80
+  }
+]

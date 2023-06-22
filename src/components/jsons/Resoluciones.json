@@ -1,0 +1,39 @@
+[
+   {
+     "id": 6,
+     "detalle": "Comunicado",
+     "fecha": "04/06/2023",
+     "filepdf": "PDF/convocatoriaCas/pdfprueba.pdf"
+   },
+   {
+    "id": 5,
+    "detalle": "Resultados finales",
+    "fecha": "01/06/2023",
+    "filepdf": "PDF/convocatoriaCas/lunn2020.pdf"
+  },
+  {
+    "id": 4,
+    "detalle": "Programacion entrevista",
+    "fecha": "01/05/2023",
+    "filepdf": "PDF/convocatoriaCas/Notas finales_.pdf"
+  },
+  {
+    "id": 3,
+    "detalle": "Archivo Nirio",
+    "fecha": "23/02/2021",
+    "filepdf": "PDF/convocatoriaCas/1-convo.pdf"
+  },
+  {
+    "id": 2,
+    "detalle": "Plagas Urbanas",
+    "fecha": "01/20/2022",
+    "filepdf": "PDF/convocatoriaCas/Plagas Urbanas Las palomas y su impacto.pdf"
+  },
+  {
+    "id": 1,
+    "detalle": "¿Y los gatos?",
+    "fecha": "01/06/2023",
+    "filepdf": "PDF/convocatoriaCas/Y los gatos.pdf"
+  }
+  
+ ]

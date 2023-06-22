@@ -1,0 +1,16 @@
+.estiloTextoBlack{
+    font-family: "Homer Simpson UI";
+    color: rgb(0, 0, 0);
+    line-height: 100%;
+    padding: 5px;
+    padding-bottom: 10px;
+    text-align: justify;
+}
+.contenedorTextoServiciosPro{
+    display: grid;
+    height:auto;
+    justify-items: start;
+    color: black;
+    width: 50%;
+    padding: 25px;
+}

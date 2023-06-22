@@ -1,0 +1,289 @@
+/* Fondo cabecera */
+.DropDown{
+  background:rgb(248, 241, 241);
+}
+
+/* Probando navbar */
+.navbar {
+  background: linear-gradient(90deg, rgb(28, 27, 27) 0%, rgb(26, 23, 23) 100%);
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80px;
+  max-width: 1500px;
+}
+
+.pages-container {
+  /* background: url('/images/img-home.jpg') center center/cover no-repeat; */
+  border: 1px solid white;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+  object-fit: contain;
+}
+/* Hasta aqui probare navbar */
+
+
+
+/* 0d1b2a 1b263b 415a77 778da9 e0e1dd  */
+.header-parent {
+  border-bottom: solid 1px #0d1b2a;
+  background-color: #ffffff;
+  display: grid;
+  justify-content: space-between;
+  background: white;
+  width: 100%;
+
+} 
+
+.header {
+  /* border: 1px solid red; */
+  display: grid;
+  align-items: center;
+  justify-content: space-between;
+  /* margin: 0 2rem; */
+  width: 100%;
+  background: white; 
+}
+
+/* color de texto cuando se selecciona */
+
+
+.logo-anchor{
+  width: 100%;
+  background: white ;
+}
+
+
+
+.logo {
+  height: 100px;
+  /* border: 1px solid black; */
+  
+}
+.logo2 {
+  /* display: grid; */
+  height: 100px;
+  float: right;
+  /* border: 1px solid black; */
+}
+
+/* NAVIGATION */
+
+
+/* Menu de 1 solo nivel (inicio) */
+
+.header-nav-link {
+  text-decoration: none;
+  height: 100%;
+  background: rgb(12, 19, 79);
+  display: flex;
+  padding: 10px;
+  width: auto;
+  height: 40px;
+  justify-content: center;
+  /* border: solid 1px #CDD1C4; */
+  border-bottom: none;
+  border-radius: 6px;
+  margin-top: 20px;
+}
+
+.header-nav-link span {
+  display: block;
+  align-self: center;
+}
+
+
+/* opciones menu 1er nivel con hijos */
+.header-nav-options {
+  
+  position: relative;
+  height: 40px;
+  margin-top: 20px;
+
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+/* = que el de arriba */
+.header-nav-div {
+  /* text-decoration: none; */
+  /* border: 1px solid white; */
+  border-radius: 6px;
+  padding: 10px;
+  height: 100%;
+  background: rgb(12, 19, 79);
+  display: flex;  
+  width: auto;
+  justify-content: center;
+  /* border: solid 1px #CDD1C4; */
+  border-bottom: none;
+}
+
+.header-nav-div span {
+  display: block;
+  align-self: center;
+}
+a{
+  position: relative;
+}
+
+.header-nav-options:last-child .header-nav-ul {
+  right: 0;
+}
+
+.header-nav-options:last-child .sub-menu-ul {
+  left: -100%;
+}
+
+/* .header-nav-ul {
+  padding-top: 10px;
+} */
+/* Sub menu de 2do nivel sin tercer hijo */
+.sub-menu-li {
+  display: flex;
+
+  width: 100%;
+  height: auto;
+  min-height: 40px;
+  background-color:rgb(12, 19, 79);
+  align-items: center;
+}
+
+.sub-menu-link {
+  display: flex;
+  align-items: center;
+
+  border-bottom: none;
+  padding-left: 1rem;
+  height: 100%;
+  width: 100%;
+}
+
+.sub-menu-li:last-child {
+  border-bottom: solid 1px #CDD1C4;
+
+}
+
+.header-nav-ul {
+  position: absolute;
+  top: 100%;
+  list-style: none;
+  width: 150px;
+}
+/* 2do menu que tenga un hijo */
+.sub-menu-options {
+  position: relative;
+  width: 100%;
+  height: 40px;
+  background-color: rgb(12, 19, 79);
+}
+
+/* Seleccionar (opcion para todos) */
+.header-nav-link:hover,
+.sub-menu-li:hover,
+.grand-child-link:hover,
+.options-hover:hover .header-nav-div,
+.sub-menu-hover:hover .sub-menu-div {
+  /* background-color: rgb(12, 19, 79); */
+  font-size: 18px;
+}
+span:hover{
+  color: rgb(244, 211, 211);
+}
+
+/* TERcer hijo menu */
+.sub-menu-ul {
+  position: absolute;
+  background-color: rgb(12, 19, 79);
+  list-style: none;
+  top: 0px;
+  left: 100%;
+  width: auto;
+  padding-right: 10px;
+}
+
+.sub-menu-div {
+  display: flex;
+  align-items: center;
+  border: solid 1px #0d1b2a;
+  border-bottom: none;
+  padding-left: 1rem;
+  height: 100%;
+  width: 100%;
+}
+
+/* .grand-child-link {} */
+
+.grand-child-link:last-child {
+  border-bottom: solid 1px #CDD1C4;
+}
+
+.grand-child-link a {
+  text-decoration: none;
+  height: 100%;
+  width: 100%;
+  padding-left: 1rem;
+  display: flex;
+  align-items: center;
+  height: 40px;
+  border: solid 1px #0d1b2a;
+  border-bottom: none;
+  white-space: nowrap;
+}
+/* Menu multinivel */
+.main-nav {
+  /* border: 1px solid rgb(52, 177, 223); */
+  padding-left: 14px;
+  gap: 50px;
+  display: flex;
+  list-style: none;
+  width:100%;
+  height: auto ;
+  justify-content: flex-start;
+  background: rgb(12, 19, 79);
+}
+
+.main-content {
+  border: 1px solid black;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto 2rem;
+}
+
+
+.heading {
+  color: #181818;
+}
+
+.arrow {
+  margin-left: auto;
+  padding-right: 10px;
+}
+
+/* Titulo de la pagina (a lado de logo muni) */
+.brand img{
+  font-weight: bold;
+  font-size:30px;
+  padding-left: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

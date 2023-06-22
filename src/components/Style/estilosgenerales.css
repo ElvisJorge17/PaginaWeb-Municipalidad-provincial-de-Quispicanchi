@@ -1,0 +1,26 @@
+.background{
+    background-image: url('/src/images/backgroud/fondooscuro.jpg');
+    background-position: left;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+}
+
+.contenedorTitulo{
+    display: grid;
+    height: 130px;
+    align-items: center;
+}
+.tituloPestañas{
+    text-align: center;
+    color: rgb(18, 8, 113);
+    margin-top: 15px;
+    font-family: "Homer Simpson UI";
+    font-size: 40px;
+    background-color: rgb(197, 196, 196);
+}

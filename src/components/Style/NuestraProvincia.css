@@ -1,0 +1,40 @@
+.contenido{
+    height: auto;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    padding: 25px;
+}
+
+.contenedorTexto{
+    display: grid;
+    height:auto;
+    justify-items: start;
+    color: black;
+    width: 50%;
+}
+.estiloTitulo{
+    color:black;
+    line-height: 100%;
+    padding: 5px;
+    text-align: justify;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.estiloTexto{
+    font-family: "Homer Simpson UI";
+    color: rgb(0, 0, 0);
+    line-height: 100%;
+    padding: 5px;
+    padding-bottom: 10px;
+    text-align: justify;
+}
+
+/* Contenedor google maps de urcos */
+.contenedorMapa{
+    display: flex;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    align-content: center;
+    justify-content: center;
+}
