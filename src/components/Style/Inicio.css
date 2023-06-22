@@ -9,6 +9,7 @@
     background: rgba(181, 179, 179, 0.322);
 }
 
+/* texto Quispicanchi es una de las tierras mas queridas */
 .ContenidoQuispicanchi{
     display: grid;
     height:auto;
@@ -96,6 +97,14 @@
     gap: 10px;
 }
 
+.contenedorSliderEInfo{
+    height: 100%;
+    width: auto;
+    display: flex;
+    justify-content:space-around;
+    margin: 4px;
+}
+
 .contenedorImagenPlaza{
     width:min-content;
     height: auto;
@@ -104,6 +113,5 @@
 .contenedorFacebook{
     width: 400px;
     height: 540px;
-    padding: 10px;
-    border: 1px solid rgb(0, 0, 0);
+    padding-right: 10px;
 }
