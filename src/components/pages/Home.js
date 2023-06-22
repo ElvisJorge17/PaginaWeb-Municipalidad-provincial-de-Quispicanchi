@@ -10,7 +10,15 @@ export default function Home() {
   return (
     <>
       
-      <p className='home Inicio'></p>
+      <div className='contenedorSliderEInfo'>
+        <p className='home Inicio'></p>
+        <div className='contenedorFacebook'>
+        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fweb.facebook.com%2Fprofile.php%3Fid%3D100088963969826&tabs=timeline&width=390&height=530&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" 
+          width="390" height="530" style={{border:"none",overflow:"hidden"}}
+          scrolling="no" frameborder="0" allowfullscreen="true" 
+          allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+        </div>
+      </div>
       <h1 className="tituloPestañas contenedorTitulo">Municipalidad provincial de Quispicanchi</h1>
         <div className='contenido'>
           <div className='contenedorTexto'>
@@ -41,7 +49,7 @@ export default function Home() {
       <img className='contenedorImagenAlcalde' src={alcalde} alt="alcalde" width={100}/>
         <div className='contenedorInformacionAlcalde'>
           <h2 className='subTitulo'> Yamil Efraín Castillo Cusihuallpa </h2>
-          <h2 className='subTitulo'>Alcalda</h2>
+          <h2 className='subTitulo'>Alcalde</h2>
           <h3 className='estiloTextoInfoAlcalde'> Con mucho entusiasmo asumimos esta alta responsabilidad de dirigir los 
             destinos de nuestra provincia, y ratificamos que nuestros compromisos 
             serán cumplidos con la participación directa e indirecta de todos y cada 
@@ -62,6 +70,7 @@ export default function Home() {
       <div className='contenedorPlazayFB'>
         <img className='contenedorImagenPlaza' src={plaza} alt="alcalde" width={100}/>
         <div className='contenedorFacebook'>
+          <h2 className='estiloTextoBlack'>Ultimos documentos</h2>
         <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fweb.facebook.com%2Fprofile.php%3Fid%3D100088963969826&tabs=timeline&width=390&height=530&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" 
           width="390" height="530" style={{border:"none",overflow:"hidden"}}
           scrolling="no" frameborder="0" allowfullscreen="true" 
