@@ -1,7 +1,7 @@
 //import React, { useState } from 'react';
 import "../components/Style/DropDown.css";
 import NavigationDesktop from "./NavigationDesktop";
-import cabecera from "../images/cabecera-Muni.png";
+import cabecera from "../images/logoMuni.png";
 import portalTransparencia from "../images/PortalDeTransparencia.png"
 import navLinksData from "../data.json";
 
@@ -9,6 +9,7 @@ import navLinksData from "../data.json";
 
 function DropDown() {
   return (
+    
     <div className='DropDown'>
 
           <a href='/' className=''>
@@ -17,14 +18,11 @@ function DropDown() {
               <img className='logo2' src={portalTransparencia} alt='logo' />
             </a>
           </a>
-          <NavigationDesktop navLinksData={navLinksData} />
+          <div className="contenedorMenu">
+            <NavigationDesktop navLinksData={navLinksData} />
+          </div>
+          {/* <NavigationDesktop navLinksData={navLinksData} /> */}
 
-      
-      {/* {<body>
-        <main className='main-content'>
-          <h1 className='heading'>Menu muni</h1>
-        </main>
-      </body> } */}
       
     </div>
     );
