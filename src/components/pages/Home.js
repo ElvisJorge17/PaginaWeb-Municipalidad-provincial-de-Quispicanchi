@@ -71,10 +71,6 @@ export default function Home() {
         <img className='contenedorImagenPlaza' src={plaza} alt="alcalde" width={100}/>
         <div className='contenedorFacebook'>
           <h2 className='estiloTextoBlack'>Ultimos documentos</h2>
-        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fweb.facebook.com%2Fprofile.php%3Fid%3D100088963969826&tabs=timeline&width=390&height=530&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" 
-          width="390" height="530" style={{border:"none",overflow:"hidden"}}
-          scrolling="no" frameborder="0" allowfullscreen="true" 
-          allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
         </div>
         </div>  
       <div>

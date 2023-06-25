@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.afe6b00f.css",
-    "main.js": "/static/js/main.b0f0b172.js",
+    "main.css": "/static/css/main.841cd0e2.css",
+    "main.js": "/static/js/main.03ad3173.js",
     "static/media/Convocatoria CAS 002-2023-MPQ - 08-03-2023.pdf": "/static/media/Convocatoria CAS 002-2023-MPQ - 08-03-2023.a0908694faaf1b0742f3.pdf",
     "static/media/Fe de erratas Nro. 01 - Convocatoria Concurso CAS Nro. 001-2023-MPQ.pdf": "/static/media/Fe de erratas Nro. 01 - Convocatoria Concurso CAS Nro. 001-2023-MPQ.6e48d285cf8abd026e30.pdf",
     "static/media/Convocatoria Concurso CAS Nro. 001-2023-MPQ.pdf": "/static/media/Convocatoria Concurso CAS Nro. 001-2023-MPQ.571aa1473bdbdb520b14.pdf",
@@ -466,11 +466,11 @@
     "static/media/PDF-V.png": "/static/media/PDF-V.c496abc134efdd13e099.png",
     "static/media/img33.jpg": "/static/media/img33.b75b3243d685866afa88.jpg",
     "index.html": "/index.html",
-    "main.afe6b00f.css.map": "/static/css/main.afe6b00f.css.map",
-    "main.b0f0b172.js.map": "/static/js/main.b0f0b172.js.map"
+    "main.841cd0e2.css.map": "/static/css/main.841cd0e2.css.map",
+    "main.03ad3173.js.map": "/static/js/main.03ad3173.js.map"
   },
   "entrypoints": [
-    "static/css/main.afe6b00f.css",
-    "static/js/main.b0f0b172.js"
+    "static/css/main.841cd0e2.css",
+    "static/js/main.03ad3173.js"
   ]
 }

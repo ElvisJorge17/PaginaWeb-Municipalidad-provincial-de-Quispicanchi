@@ -8,9 +8,12 @@
   font-family: 'Inter', sans-serif;
   font-weight: 400;
 }
+html {
+  height: 100%;
+}
 /* Color de fondo */
 body {
   background-color: #e0e1dd; 
-  height: 70vh;
+  min-height: 100%;
   margin: 0;
 }

@@ -2,7 +2,7 @@ import React from 'react';
 import DropDown from './components/DropDown';
 import './App.css';
 import Home from './components/pages/Home';
-import { BrowserRouter as Router,Switch, Route,HashRouter } from 'react-router-dom';
+import { BrowserRouter as Router,Switch, Route,HashRouter, } from 'react-router-dom';
 import Products from './components/pages/Products';
 import Contacto from './components/pages/Contacto';
 import SignUp from './components/pages/SignUp';

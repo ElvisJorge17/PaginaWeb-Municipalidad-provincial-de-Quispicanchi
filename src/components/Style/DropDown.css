@@ -1,6 +1,8 @@
 /* Fondo cabecera */
 .DropDown{
   background:rgb(248, 241, 241);
+  margin: 0px;
+  padding: 0px;
 }
 
 /* Probando navbar */
@@ -14,6 +16,10 @@
   position: sticky;
   top: 0;
   z-index: 999;
+}
+
+.contenedorMenu{
+  width: 100%;
 }
 
 .navbar-container {
@@ -73,6 +79,7 @@
 
 .logo {
   height: 100px;
+  margin: 10px;
   /* border: 1px solid black; */
   
 }
@@ -253,7 +260,7 @@ span:hover{
   gap: 50px;
   display: flex;
   list-style: none;
-  width:100%;
+  /* width:100%; */
   height: auto ;
   justify-content: flex-start;
   background: rgb(12, 19, 79);
@@ -287,3 +294,33 @@ span:hover{
   justify-content: center;
   align-items: center;
 }
+@media screen and (max-width: 600px) {
+  .DropDown{
+    width:max-content;
+  }
+  .main-nav{
+      display: grid;
+      width: 100%;
+  }
+  .sub-menu-link{
+    position: relative;
+    padding-left: 180px;
+
+    width: auto;
+  }
+  .sub-menu-div{
+    position: relative;
+    padding-left: 180px;
+    width: auto;
+  }
+  .grand-child-link{
+    float: left;
+    width: auto;
+  }
+  /* .header-nav-div{
+    display: none;
+  }
+  .header-nav-ul{
+    display: none;
+  }*/
+} 
