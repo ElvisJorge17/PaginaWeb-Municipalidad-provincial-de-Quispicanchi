@@ -21,6 +21,15 @@
     padding: 50px;
     border-radius: 10px;
 }
+
+.contenido{
+    display: flex;
+    height:auto;
+    justify-items: center;
+    color: black;
+    width: 100%;
+    justify-content: center;
+}
 .subTitulo{
     color:rgb(255, 255, 255);
     line-height: 100%;
@@ -117,6 +126,9 @@
 }
 
 @media screen and (max-width: 600px) {
+    .contenido{
+        justify-content: space-around;
+    }
     .contenedorImagenAlcalde{
       display: none;
     }
@@ -131,4 +143,11 @@
         width: 100%;
         display: flex;
     }
+    .contenedorPlazayFB{
+        display: block;
+    }
+    .contenedorImagenPlaza{
+        height: 40%;
+    }
+    
   } 

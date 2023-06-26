@@ -19,7 +19,7 @@ export default function Contacto() {
     </div>
 
     {/* contenido de alcaldia */}
-    <img className='' src={muni} alt="muni" width={Contacto}/>
+    <h2>Contenido de contacto</h2>
 
     <div>
       <Footer/> 
