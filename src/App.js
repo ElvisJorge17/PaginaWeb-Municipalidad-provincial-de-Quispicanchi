@@ -41,7 +41,7 @@ function App() {
         <Route path='/Festividades' component={Festividades} />
         <Route path='/Misión y Visión' component={MisionYVision} />
         <Route path='/Convocatoria CAS' component={Convocatoria} />
-        <Route path='/Alcaldia' component={Alcaldia} />
+        <Route path='/Alcaldía' component={Alcaldia} />
         <Route path='/Regidores' component={Regidores} />
         <Route path='/Acuerdos de concejo' component={Acuerdos} />
         <Route path='/Resoluciones de alcaldía' component={Resoluciones} />
