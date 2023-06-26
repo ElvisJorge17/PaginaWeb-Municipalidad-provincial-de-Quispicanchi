@@ -14,7 +14,7 @@ export default function Contacto() {
         <h3 className='estiloTexto'>Dirección: Jr. César Vallejo Nro. 109, Plaza de Armas de Urcos, Quispicanchi.</h3>
         <h3 className='estiloTexto'>Cusco - Perú</h3>
         <h3 className='estiloTexto'>Número de celular:  993421451</h3>
-        <h3 className='estiloTexto'>Correo Electronico: muniquispicanchi2023.2026@gmail.com</h3>
+        <h3 className='estiloTexto'>Correo electronico: muniquispicanchi2023.2026@gmail.com</h3>
       </div>
     </div>
 

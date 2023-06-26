@@ -9,7 +9,7 @@ function Footer() {
     <div className='footer-container'>
       <section className='footer-subscription'>
         <p className='footer-subscription-heading'>
-          Muncicipalidad provincial de Quispicanchi Gestion 2023- 2026
+          Municipalidad Provincial de Quispicanchi Gestion 2023- 2026
         </p>
         <p className='footer-subscription-text'>
           Jr. César Vallejo Nro. 109, Plaza de Armas de Urcos, Quispicanchi
@@ -38,16 +38,17 @@ function Footer() {
           </div> */}
           <div class='footer-link-items'>
             <h2>Contacto</h2>
+            <Link to='/'>Correo electronico:</Link>
             <Link to='/'>muniquispicanchi2023.2026@gmail.com</Link>
-            <Link to='/'>Telf.: 993421451</Link>
-            <Link to='/'>Cusco - Perú</Link>
+            <Link to='/'>Telefono: 993421451</Link>
+            <Link to='/'>Urcos - Perú</Link>
           </div>
         </div>
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
             <h2>Telefonos Quispicanchi</h2>
-            <Link to='/'>Centro de salud Urcos: 084 307076</Link>
-            <Link to='/'>Compañía de bomberos: 084 307105.</Link>
+            <Link to='/'>Centro de Salud Urcos: 084 307076</Link>
+            <Link to='/'>Compañía de Bomberos: 084 307105.</Link>
             <Link to='/'>PNP Quispicanchi: 084- 307021</Link>
             <Link to='/'>Essalud: 084 307015.</Link>
             <Link to='/'>Seguridad Ciudadana. 941 414773</Link>

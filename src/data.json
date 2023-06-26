@@ -26,7 +26,7 @@
     "children": [
       
       {
-        "name": "Alcaldia",
+        "name": "Alcaldía",
         "id": 31
       },
       {
@@ -58,7 +58,7 @@
   },
 
   {
-    "name": "Cotizaciones en linea",
+    "name": "Cotizaciones en Linea",
     "id": 50,
     "children": [
       {
