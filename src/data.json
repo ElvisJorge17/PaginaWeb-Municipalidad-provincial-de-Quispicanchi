@@ -85,15 +85,19 @@
             "name": "Resoluciones de alcaldía"
           },
           {
-            "id": 74,
-            "name": "Decretos de alcaldía"
+            "id":74,
+            "name": "Resoluciones de Gerencia Municipal"
           },
           {
             "id": 75,
-            "name": "Acuerdos de concejo"
+            "name": "Decretos de alcaldía"
           },
           {
             "id": 76,
+            "name": "Acuerdos de concejo"
+          },
+          {
+            "id": 77,
             "name": "Ordenanzas municipales"
           }
         ]

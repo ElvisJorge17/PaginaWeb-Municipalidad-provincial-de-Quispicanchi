@@ -9,7 +9,6 @@ import plaza from "../../images/ImagenesContenido/Plaza-de-Armas-Urcos-2023.jpg"
 export default function Home() {
   return (
     <>
-      
       <div className='contenedorSliderEInfo'>
         <p className='home Inicio'></p>
         <div className='contenedorFacebook'>
@@ -19,7 +18,7 @@ export default function Home() {
           allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
         </div>
       </div>
-      <h1 className="tituloPestañas contenedorTitulo">Municipalidad provincial de Quispicanchi</h1>
+      <h1 className="tituloPestañas contenedorTitulo">Municipalidad Provincial de Quispicanchi</h1>
         <div className='contenido'>
           <div className='contenedorTexto'>
             <h3 className='estiloTextoBlack'>

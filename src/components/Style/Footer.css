@@ -160,7 +160,11 @@
   
   @media screen and (max-width: 600px) {
     .footer-container{
-      width: min-content;
+      display: flex;
+      width: auto;
+    }
+    .footer-links{
+      display: grid;
     }
   }
   
