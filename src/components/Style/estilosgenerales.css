@@ -11,6 +11,10 @@
     font-size: 3rem;
 }
 
+.contenedorPrincipal{
+    border: 1px solid red;
+}
+
 .contenedorTitulo{
     display: grid;
     height: 130px;

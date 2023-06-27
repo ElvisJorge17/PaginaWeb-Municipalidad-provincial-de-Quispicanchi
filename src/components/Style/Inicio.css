@@ -129,12 +129,14 @@
     .contenido{
         justify-content: space-around;
     }
-    .contenedorImagenAlcalde{
-      display: none;
+    .contenedorAlcalde{
+      display: grid;
     }
     
     .contenedorInformacionAlcalde{
         width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
     }
     .ContenidoQuispicanchi{
         width: 100%;

@@ -89,4 +89,8 @@
     color: #fff;
     font-size: 100px;
   }
-  
+  @media screen and (max-width: 600px) {
+    .home{
+      display: none;
+    }
+  }

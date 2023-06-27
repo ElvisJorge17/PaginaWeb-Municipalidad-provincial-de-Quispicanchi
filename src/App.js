@@ -10,7 +10,7 @@ import Marketing from './components/pages/Marketing';
 import Consulting from './components/pages/Consulting';
 import Festividades from './components/pages/NuestraProvincia/Festividades'
 import Ubicacion from './components/pages/NuestraProvincia/Ubicacion'
-import Resoluciones from './components/pages/Normatividades/NormasEmitidas/Resoluciones';
+import Resoluciones from './components/pages/Normatividades/NormasEmitidas/ResolucionesAlcaldia';
 import MisionYVision from './components/pages/LaMunicipalidad/MisionYVision';
 import Convocatoria from './components/pages/ConvocatoriaCas';
 import Alcaldia from './components/pages/LaMunicipalidad/Alcaldia'
@@ -22,6 +22,7 @@ import DecretosAlcaldia from './components/pages/Normatividades/NormasEmitidas/D
 import Acuerdos from './components/pages/Normatividades/NormasEmitidas/AcuerdosDeConcejo';
 import OrdenanzasMunicipales from './components/pages/Normatividades/NormasEmitidas/OrdenanzasMunicipales';
 import Directivas from './components/pages/Normatividades/Directivas';
+import ResolucionesGerencia from './components/pages/Normatividades/NormasEmitidas/ResolucionesGerencia';
 
 function App() {
   return (
@@ -49,6 +50,7 @@ function App() {
         <Route path='/Ordenanzas municipales' component={OrdenanzasMunicipales} />
         <Route path='/Instrumentos de gestión' component={instrumentos} />
         <Route path='/Comisiones' component={Comisiones} />
+        <Route path='/Resoluciones de Gerencia Municipal' component={ResolucionesGerencia} />
         <Route path='/Servicio de profesionaes para el órgano de control interno' component={ServiciosProfesionales} />
         
       </Switch>

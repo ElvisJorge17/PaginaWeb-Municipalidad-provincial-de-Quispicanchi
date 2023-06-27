@@ -8,7 +8,7 @@ export default function Alcaldia() {
   return (
     <>
     {/* <h1 className='products'>UBICACION</h1> */}
-    <h1 className="tituloPestañas contenedorTitulo">Alcaldia</h1>
+    <h1 className="tituloPestañas contenedorTitulo">Alcaldía</h1>
     <div className='contenido'>
       <div className='contenedorTexto'>
         <h1 className='estiloTitulo'>Contenido de Alcaldia</h1>
