@@ -1,5 +1,11 @@
 [
   {
+    "id": 20,
+    "detalle": "Convocatoria CAS 03-MPQ 2023",
+    "fecha": "28/06/2023",
+    "filepdf": "PDF/convocatoriaCas/Convocatoria CAS 03-MPQ.pdf"
+  },
+  {
     "id": 19,
     "detalle": "Comunicado CAS 002-2023-MPQ - 04-04-2023",
     "fecha": "04/06/2023",
