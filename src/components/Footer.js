@@ -58,8 +58,6 @@ function Footer() {
             <a href="https://www.facebook.com/profile.php?id=100088963969826" target="_blank" rel="noopener noreferrer">
             Facebook
             </a>
-            <Link to='/'>Instagram</Link>
-            <Link to='/'>Youtube</Link>
             <a href="https://www.facebook.com/profile.php?id=100088963969826" target="_blank" rel="noopener noreferrer">
             <img src={facebook} alt="pte" width={50} />
             </a>

@@ -1,8 +1,15 @@
 [
-    {
-      "id": 1,
-      "detalle": "Resolución de gerencia 0011-2022-GM-MPQ/U",
-      "fecha": "04/06/2023",
-      "filepdf": "PDF/Directivas/Resolución de gerencia 0011-2022-GM-MPQ.pdf"
-    }
+  {
+    "id": 2,
+    "detalle": "Resolución de gerencia 0078-2023-GM-MPQ/U",
+    "fecha": "05/05/2023",
+    "filepdf": "PDF/Directivas/Resolución de gerencia 0078-2023-GM-MPQ.pdf"
+  },
+  { 
+    "id": 1,
+    "detalle": "Resolución de gerencia 0011-2022-GM-MPQ/U",
+    "fecha": "04/06/2023",
+    "filepdf": "PDF/Directivas/Resolución de gerencia 0011-2022-GM-MPQ.pdf"
+  }
+
 ]

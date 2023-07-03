@@ -23,6 +23,7 @@ import Acuerdos from './components/pages/Normatividades/NormasEmitidas/AcuerdosD
 import OrdenanzasMunicipales from './components/pages/Normatividades/NormasEmitidas/OrdenanzasMunicipales';
 import Directivas from './components/pages/Normatividades/Directivas';
 import ResolucionesGerencia from './components/pages/Normatividades/NormasEmitidas/ResolucionesGerencia';
+import MesaDePartes from './components/pages/ServiciosMunicipales/MesaDePartesVirtual';
 
 function App() {
   return (
@@ -50,6 +51,7 @@ function App() {
         <Route path='/Ordenanzas municipales' component={OrdenanzasMunicipales} />
         <Route path='/Instrumentos de gestión' component={instrumentos} />
         <Route path='/Comisiones' component={Comisiones} />
+        <Route path='/Mesa de partes virtual' component={MesaDePartes} />
         <Route path='/Resoluciones de Gerencia Municipal' component={ResolucionesGerencia} />
         <Route path='/Servicio de profesionaes para el órgano de control interno' component={ServiciosProfesionales} />
         

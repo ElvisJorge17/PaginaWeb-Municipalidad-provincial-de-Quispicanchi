@@ -8,7 +8,7 @@ const ResolucionesGerencia=()=>{
    const [contacts, setContact]=useState(dataconvoc);
    return(
          <>
-         <h1 className="tituloPestañas contenedorTitulo">Resoluciones de Gerencia</h1>
+         <h1 className="tituloPestañas contenedorTitulo">Resoluciones de Gerencia Municipal</h1>
          <div className="convo-container">
             <table>
             <thead>
