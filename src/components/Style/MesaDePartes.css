@@ -9,7 +9,8 @@
 .contenedorImagen{
     height: 400px;
     width: 40%;
-    
+    margin-top: 40px;
+    margin-bottom: 30px;
     display: flex;
     justify-content: center;
     align-items: center;

@@ -1,0 +1,42 @@
+.contenido{
+    height: auto;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    padding: 25px;
+}
+
+.contenedorTexto{
+    display: grid;
+    height:auto;
+    justify-items: start;
+    color: black;
+    width: 50%;
+}
+.estiloTitulo{
+    color:black;
+    line-height: 100%;
+    padding: 5px;
+    font-size: 23px;
+    text-align:left;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.estiloTexto{
+    font-family: sans-serif;
+    color: rgb(0, 0, 0);
+    line-height: 100%;
+    padding: 5px;
+    padding-bottom: 10px;
+    text-align: justify;
+    font-size: 17px;
+}
+
+/* Contenedor google maps de urcos */
+.contenedorMapa{
+    display: flex;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    align-content: center;
+    justify-content: center;
+}

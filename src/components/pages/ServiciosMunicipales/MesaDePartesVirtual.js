@@ -3,7 +3,7 @@ import '../../../App.css';
 import Footer from '../../Footer';
 import '../../Style/MesaDePartes.css'
 import imagenmesa from '../../../images/imagenesMesaDePartes/MesaDePartes.png'
-import imagenPersona from '../../../images/imagenesMesaDePartes/PersonaAnimada.jpg'
+import imagenPersona from '../../../images/imagenesMesaDePartes/PersonaMensaje.png'
 
 export default function MesaDePartes() {
   return (
@@ -20,9 +20,8 @@ export default function MesaDePartes() {
         <div className='contenedorImagen'>
           <img src={imagenPersona} alt="pte" width={500} />
         </div>
-        Click Aqui.
         <a href="https://forms.gle/E5HKmR3TZBDft7Yb6" target="_blank" rel="noopener noreferrer">
-            <img className='borderLogoMesa' src={imagenmesa} alt="pte" width={300} />
+            <img className='borderLogoMesa' src={imagenmesa} alt="pte" width={200} />
         </a>
     </div>
 
