@@ -21,6 +21,8 @@
     align-items: center;
 }
 .tituloPestañas{
+    padding-left: 30px;
+    padding-right: 30px;
     text-align: center;
     color: rgb(18, 8, 113);
     margin-top: 15px;

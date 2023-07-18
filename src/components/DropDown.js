@@ -18,6 +18,9 @@ function DropDown() {
               <img className='logo2' src={portalTransparencia} alt='logo' />
             </a>
           </a>
+          <a href="https://www.muniurcos.gob.pe/static/media/Convocatoria%20CAS%2003-MPQ.a824dc689821a640860a.pdf" target="_blank" rel="noopener noreferrer" className='logo-anchor'>
+              <h2 className="linkConvocatoria">28/06/2023 Convocatoria concurso CAS N°03-MPQ:Click aqui</h2>
+            </a>
           <div className="contenedorMenu">
             <NavigationDesktop navLinksData={navLinksData} />
           </div>

@@ -1,0 +1,21 @@
+.contenedorMesaDePartes{
+    height: auto;
+    width: 100%;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    color: black;
+}
+.contenedorImagen{
+    height: 400px;
+    width: 40%;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.borderLogoMesa{
+    border-radius: 10px;
+
+}

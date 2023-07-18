@@ -8,7 +8,7 @@ const Convocatoria=()=>{
    const [contacts, setContact]=useState(dataconvoc);
    return(
          <>
-         <h1 className="tituloPestañas contenedorTitulo">Convocatorias Cas</h1>
+         <h1 className="tituloPestañas contenedorTitulo">Convocatorias CAS</h1>
          <div className="convo-container">
             <table>
             <thead>
