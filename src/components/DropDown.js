@@ -18,8 +18,8 @@ function DropDown() {
               <img className='logo2' src={portalTransparencia} alt='logo' />
             </a>
           </a>
-          <a href="https://www.muniurcos.gob.pe/static/media/Convocatoria%20CAS%2003-MPQ.a824dc689821a640860a.pdf" target="_blank" rel="noopener noreferrer" className='logo-anchor'>
-              <h2 className="linkConvocatoria">28/06/2023 Convocatoria concurso CAS N°03-MPQ:Click aqui</h2>
+          <a href="https://www.muniurcos.gob.pe/static/media/resultado_1.6577e5736d0debf0aa55.pdf" target="_blank" rel="noopener noreferrer" className='logo-anchor'>
+              <h2 className="linkConvocatoria">20/07/2023 Resultados de evaluacion curricular concurso CAS 03-2023:Click aqui</h2>
             </a>
           <div className="contenedorMenu">
             <NavigationDesktop navLinksData={navLinksData} />
@@ -43,12 +43,7 @@ function DropDown() {
       
     //     </div>
     //   </div>
-      
-      {/* {<body>
-        <main className='main-content'>
-          <h1 className='heading'>Menu muni</h1>
-        </main>
-      </body> } */}
+
       
     // </div>
 }

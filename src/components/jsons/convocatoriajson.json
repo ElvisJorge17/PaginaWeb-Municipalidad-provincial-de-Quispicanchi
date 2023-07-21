@@ -1,5 +1,17 @@
 [
   {
+    "id": 22,
+    "detalle": "Resultados de evaluación curricular concurso CAS 03-2023-MPQ",
+    "fecha": "20/07/2023",
+    "filepdf": "PDF/convocatoriaCas/resultado_1.pdf"
+  },
+  {
+    "id": 21,
+    "detalle": "Comunicado 01. CAS 03-MPQ 2023",
+    "fecha": "18/07/2023",
+    "filepdf": "PDF/convocatoriaCas/Comunicado CAS 01 18-07-2023.pdf"
+  },
+  {
     "id": 20,
     "detalle": "Convocatoria CAS 03-MPQ 2023",
     "fecha": "28/06/2023",
