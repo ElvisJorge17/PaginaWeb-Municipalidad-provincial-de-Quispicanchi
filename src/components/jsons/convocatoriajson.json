@@ -1,5 +1,23 @@
 [
   {
+    "id": 25,
+    "detalle": "Resultados finales concurso CAS N° 003-2023-MPQ",
+    "fecha": "25/07/2023",
+    "filepdf": "PDF/convocatoriaCas/resultadofinalcas03.pdf"
+  },
+  {
+    "id": 24,
+    "detalle": "Comunicado 02. CAS 03-MPQ-2023",
+    "fecha": "21/07/2023",
+    "filepdf": "PDF/convocatoriaCas/comunicado02cas03.pdf"
+  },
+  {
+    "id": 23,
+    "detalle": "Comunicado 03. CAS 03-MPQ-2023",
+    "fecha": "21/07/2023",
+    "filepdf": "PDF/convocatoriaCas/comunicado03cas03.pdf"
+  },
+  {
     "id": 22,
     "detalle": "Resultados de evaluación curricular concurso CAS 03-2023-MPQ",
     "fecha": "20/07/2023",
@@ -7,7 +25,7 @@
   },
   {
     "id": 21,
-    "detalle": "Comunicado 01. CAS 03-MPQ 2023",
+    "detalle": "Comunicado 01. CAS 03-MPQ-2023",
     "fecha": "18/07/2023",
     "filepdf": "PDF/convocatoriaCas/Comunicado CAS 01 18-07-2023.pdf"
   },

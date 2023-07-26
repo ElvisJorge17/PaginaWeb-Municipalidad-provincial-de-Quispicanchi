@@ -18,9 +18,10 @@ function DropDown() {
               <img className='logo2' src={portalTransparencia} alt='logo' />
             </a>
           </a>
-          <a href="https://www.muniurcos.gob.pe/static/media/resultado_1.6577e5736d0debf0aa55.pdf" target="_blank" rel="noopener noreferrer" className='logo-anchor'>
-              <h2 className="linkConvocatoria">20/07/2023 Resultados de evaluacion curricular concurso CAS 03-2023:Click aqui</h2>
-            </a>
+          <a href="https://www.muniurcos.gob.pe/static/media/resultadofinalcas03.3ed4eaa72020846e435b.pdf" target="_blank" rel="noopener noreferrer" className='logo-anchor'>
+              <h2 className="linkConvocatoria">25/07/2023 Resultados finales concurso CAS N° 003-2023-MPQ:Click aqui</h2>
+          </a>
+          
           <div className="contenedorMenu">
             <NavigationDesktop navLinksData={navLinksData} />
           </div>
