@@ -24,6 +24,9 @@ import OrdenanzasMunicipales from './components/pages/Normatividades/NormasEmiti
 import Directivas from './components/pages/Normatividades/Directivas';
 import ResolucionesGerencia from './components/pages/Normatividades/NormasEmitidas/ResolucionesGerencia';
 import MesaDePartes from './components/pages/ServiciosMunicipales/MesaDePartesVirtual';
+import DeclaracionesJuradas from './components/pages/FuncionariosMunicipalidad/DeclaracionesJuradas';
+import FuncionariosDatos from './components/pages/FuncionariosMunicipalidad/FuncionariosDatos';
+
 
 function App() {
   return (
@@ -38,7 +41,7 @@ function App() {
         <Route path='/sign-up' component={SignUp} />
         <Route path='/marketing' component={Marketing} />
         <Route path='/consulting' component={Consulting} />
-        <Route path='/Ubicacion' component={Ubicacion} />
+        <Route path='/Ubicación' component={Ubicacion} />
         <Route path='/Decretos de alcaldía' component={DecretosAlcaldia} />
         <Route path='/Festividades' component={Festividades} />
         <Route path='/Misión y Visión' component={MisionYVision} />
@@ -51,6 +54,8 @@ function App() {
         <Route path='/Ordenanzas municipales' component={OrdenanzasMunicipales} />
         <Route path='/Instrumentos de gestión' component={instrumentos} />
         <Route path='/Comisiones' component={Comisiones} />
+        <Route path='/Declaraciones juradas' component={DeclaracionesJuradas} />
+        <Route path='/Funcionarios' component={FuncionariosDatos} />
         <Route path='/Mesa de partes virtual' component={MesaDePartes} />
         <Route path='/Resoluciones de Gerencia Municipal' component={ResolucionesGerencia} />
         <Route path='/Servicio de profesionaes para el órgano de control interno' component={ServiciosProfesionales} />
