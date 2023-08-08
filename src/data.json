@@ -9,7 +9,7 @@
     "children": [
       {
         "id": 21,
-        "name": "Ubicacion"
+        "name": "Ubicación"
       },
       {
         "id": 22,
@@ -58,12 +58,16 @@
   },
 
   {
-    "name": "Cotizaciones en Linea",
+    "name": "Funcionarios de la Municipalidad",
     "id": 50,
     "children": [
       {
         "id": 51,
-        "name": "Servicio de profesionaes para el órgano de control interno"
+        "name": "Funcionarios"
+      },
+      {
+        "id": 52,
+        "name": "Declaraciones juradas"
       }
     ]
   },
@@ -92,7 +96,7 @@
             "id": 75,
             "name": "Decretos de alcaldía"
           },
-          {
+          { 
             "id": 76,
             "name": "Acuerdos de concejo"
           },

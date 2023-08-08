@@ -262,12 +262,13 @@ span:hover{
 .main-nav {
   /* border: 1px solid rgb(52, 177, 223); */
   padding-left: 14px;
-  gap: 50px;
+  padding-right: 15px;
+  gap: 20px;
   display: flex;
   list-style: none;
   /* width:100%; */
   height: auto ;
-  justify-content: flex-start;
+  justify-content:space-around;
   background: rgb(12, 19, 79);
 }
 

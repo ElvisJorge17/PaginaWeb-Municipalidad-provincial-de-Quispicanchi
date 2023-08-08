@@ -38,15 +38,15 @@ function Footer() {
           </div> */}
           <div class='footer-link-items'>
             <h2>Contacto</h2>
-            <Link to='/'>Correo electronico:</Link>
+            <Link to='/'>Correo electrónico:</Link>
             <Link to='/'>muniquispicanchi2023.2026@gmail.com</Link>
-            <Link to='/'>Telefono: 993421451</Link>
+            <Link to='/'>Teléfono: 993421451</Link>
             <Link to='/'>Urcos - Perú</Link>
           </div>
         </div>
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
-            <h2>Telefonos Quispicanchi</h2>
+            <h2>Teléfonos Quispicanchi</h2>
             <Link to='/'>Centro de Salud Urcos: 084 307076</Link>
             <Link to='/'>Compañía de Bomberos: 084 307105.</Link>
             <Link to='/'>PNP Quispicanchi: 084- 307021</Link>
