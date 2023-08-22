@@ -18,8 +18,8 @@ function DropDown() {
               <img className='logo2' src={portalTransparencia} alt='logo' />
             </a>
           </a>
-          <a href="https://www.muniurcos.gob.pe/static/media/OMN012-080823.59325704f717134d01e5.pdf" target="_blank" rel="noopener noreferrer" className='logo-anchor'>   
-              <h2 className="linkConvocatoria">Audiencia pública. Fecha:27 de agosto 2023: click aqui.
+          <a href="https://www.muniurcos.gob.pe/static/media/OMN012-080823.58ed9a6e50030bae6e39.pdf" target="_blank" rel="noopener noreferrer" className='logo-anchor'>   
+              <h2 className="linkConvocatoria">Audiencia pública. Fecha: Domingo 27 de agosto del 2023: click aqui.
               </h2>
               <h2 className="linkConvocatoria">Ordenanza Municipal N° 12-2023-MPQ/U</h2>
               
