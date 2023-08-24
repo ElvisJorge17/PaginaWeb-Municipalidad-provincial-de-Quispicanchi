@@ -1,0 +1,15 @@
+[
+    {
+      "id": 2,
+      "detalle": "PEI",
+      "fecha": "22/08/2023",
+      "filepdf": "PDF/instrumentos/PEI 2022-2025 -MP Quispicanchi Rev 07.07.2021.pdf"
+    },
+    { 
+      "id": 1,
+      "detalle": "ROF",
+      "fecha": "22/08/2023",
+      "filepdf": "PDF/instrumentos/ROF ULTIMO.pdf"
+    }
+  
+  ]

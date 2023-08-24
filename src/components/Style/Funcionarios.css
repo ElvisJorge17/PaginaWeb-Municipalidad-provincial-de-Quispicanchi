@@ -15,11 +15,11 @@
     overflow: hidden;
     display: flex;
     align-items: center;
-  }
+}
   
-  .card.expanded {
+.card.expanded {
     height: auto;
-  }
+}
   
   .image-container {
     position: relative;
@@ -63,7 +63,7 @@
   }
   
   .btn {
-    background-color: #007bff;
+    background-color: rgb(12, 19, 79);
     color: #fff;
     border: none;
     border-radius: 4px;
