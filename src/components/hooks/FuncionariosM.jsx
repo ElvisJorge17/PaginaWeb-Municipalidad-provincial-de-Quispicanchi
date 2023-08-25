@@ -25,9 +25,7 @@ const Funcionarios = ({ title, content, imageSrc, name, cargo, email }) => {
           <p className="colortext">
             Nombre: {name}
           </p>
-          <p className="colortext">
-            <AiOutlineMail style={{color: 'black', fontSize:'14px',background:'black',borderRadius:'2px'}}/> {email}
-          </p>
+          
           {expanded && (
             <p className="additional-text colortext">
               No hay datos extras para mostrar

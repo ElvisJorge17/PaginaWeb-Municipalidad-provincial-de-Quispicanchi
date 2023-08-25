@@ -16,7 +16,7 @@ import Convocatoria from './components/pages/ConvocatoriaCas';
 import Alcaldia from './components/pages/LaMunicipalidad/Alcaldia'
 import Regidores from './components/pages/LaMunicipalidad/ConsejoMunicipal/Regidores';
 import Comisiones from './components/pages/LaMunicipalidad/ConsejoMunicipal/Comisiones';
-import instrumentos from './components/pages/Normatividades/InstrumentosDeGestion'
+import InstrumentosDeGestion from './components/pages/Normatividades/InstrumentosDeGestion'
 import ServiciosProfesionales from './components/pages/CotizacionesEnLinea/ServiciosProfesionalesOrgInt';
 import DecretosAlcaldia from './components/pages/Normatividades/NormasEmitidas/DecretosAlcaldia';
 import Acuerdos from './components/pages/Normatividades/NormasEmitidas/AcuerdosDeConcejo';
@@ -52,7 +52,7 @@ function App() {
         <Route path='/Resoluciones de alcaldía' component={Resoluciones} />
         <Route path='/Directivas' component={Directivas} />
         <Route path='/Ordenanzas municipales' component={OrdenanzasMunicipales} />
-        <Route path='/Instrumentos de gestión' component={instrumentos} />
+        <Route path='/Instrumentos de gestión' component={InstrumentosDeGestion} />
         <Route path='/Comisiones' component={Comisiones} />
         <Route path='/Declaraciones juradas' component={DeclaracionesJuradas} />
         <Route path='/Funcionarios' component={FuncionariosDatos} />
