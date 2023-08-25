@@ -1,15 +1,45 @@
 [
-    {
-      "id": 2,
-      "detalle": "PEI",
-      "fecha": "22/08/2023",
-      "filepdf": "PDF/instrumentos/PEI 2022-2025 -MP Quispicanchi Rev 07.07.2021.pdf"
-    },
-    { 
-      "id": 1,
-      "detalle": "ROF",
-      "fecha": "22/08/2023",
-      "filepdf": "PDF/instrumentos/ROF ULTIMO.pdf"
-    }
+  { 
+    "id": 7,
+    "detalle": "MOF",
+    "fecha": "25/08/2023",
+    "filepdf": "PDF/instrumentos/MOF ULTIMO.pdf"
+  },
+  { 
+    "id": 6,
+    "detalle": "DIRECTIVA DE MANEJO DE FONDOS DE ENCARGOS INTERNOS",
+    "fecha": "25/08/2023",
+    "filepdf": "PDF/instrumentos/DIRECTIVA DE MANEJO DE FONDOS DE ENCARGOS INTERNOS.pdf"
+  },
+  { 
+    "id": 5,
+    "detalle": "DIRECTIVA DE VIATICOS Y CAJA CHICA",
+    "fecha": "25/08/2023",
+    "filepdf": "PDF/instrumentos/DIRECTIVA DE VIATICOS Y CAJA CHICA.pdf"
+  },
+  { 
+    "id": 4,
+    "detalle": "DIRECTIVA PARA EL OTORGAMIENTO DE VIATICOS Y PASAJES A LAS AUTORIDADES Y FUNCIONARIOS 2021",
+    "fecha": "25/08/2023",
+    "filepdf": "PDF/instrumentos/DIRECTIVA PARA EL OTORGAMIENTO DE VIATICOS Y PASAJES A LAS AUTORIDADES Y FUNCIONARIOS 2021.pdf"
+  },
+  { 
+    "id": 3,
+    "detalle": "DIRECTIVA PARA MANEJO DE FONDOS DE CAJA CHICA",
+    "fecha": "25/08/2023",
+    "filepdf": "PDF/instrumentos/DIRECTIVA PARA MANEJO DE FONDOS DE CAJA CHICA.pdf"
+  },
+  {
+    "id": 2,
+    "detalle": "PEI",
+    "fecha": "22/08/2023",
+    "filepdf": "PDF/instrumentos/PEI 2022-2025 -MP Quispicanchi Rev 07.07.2021.pdf"
+  },
+  { 
+    "id": 1,
+    "detalle": "ROF",
+    "fecha": "22/08/2023",
+    "filepdf": "PDF/instrumentos/ROF ULTIMO.pdf"
+  }
   
   ]
