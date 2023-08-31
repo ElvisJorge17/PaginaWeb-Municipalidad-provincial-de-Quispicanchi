@@ -14,7 +14,7 @@ function DropDown() {
 
           <a href='/' className=''>
             <img className='logo' src={cabecera} alt='logo' />
-            <a href="https://www.transparencia.gob.pe/enlaces/pte_transparencia_enlaces.aspx?id_entidad=11816&id_tema=5&ver=#.YKwf48S23IW" target="_blank" rel="noopener noreferrer" className='logo-anchor'>
+            <a href="https://www.transparencia.gob.pe/enlaces/pte_transparencia_enlaces.aspx?id_entidad=67965" target="_blank" rel="noopener noreferrer" className='logo-anchor'>
               <img className='logo2' src={portalTransparencia} alt='logo' />
             </a>
           </a>
