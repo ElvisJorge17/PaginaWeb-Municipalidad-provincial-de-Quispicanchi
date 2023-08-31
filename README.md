@@ -18,7 +18,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://github.com/ElvisJorge17/PaginaWeb-Municipalidad-provincial-de-Quispicanchi/blob/ElvisJorge/src/images/ImagenesContenido/PaginaWeb-Muniurcos.png?raw=true)
 
 ## Palabras clave
 
@@ -61,10 +61,10 @@ Este software utiliza los siguientes paquetes de código abierto:
 ## Colaboración
 
 <a href="https://www.instagram.com/elvis_jorge17/">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png" width="160">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png" width="90">
 </a>
 <a href=»elelvi.789@gmail.com[email protected]»">
-	<img src="https://i.blogs.es/16b956/gmail-nuevo-logo-google-workspace/1366_2000.jpg" width="160">
+	<img src="https://i.blogs.es/16b956/gmail-nuevo-logo-google-workspace/1366_2000.jpg" width="90">
 </a>
 
 
