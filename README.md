@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://www.muniurcos.gob.pe/"><img src="[https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png](https://github.com/ElvisJorge17/PaginaWeb-Municipalidad-provincial-de-Quispicanchi/blob/main/src/images/Logos-general/logo2023.png)" alt="Markdownify" width="200"></a>
+  <a href="https://www.muniurcos.gob.pe/"><img src="https://github.com/ElvisJorge17/PaginaWeb-Municipalidad-provincial-de-Quispicanchi/blob/main/src/images/Logos-general/logo2023.png?raw=true" alt="Markdownify" width="200"></a>
   <br>
   Municipalidad Provincial de Quispicanchi
   <br>
