@@ -18,8 +18,8 @@ function DropDown() {
               <img className='logo2' src={portalTransparencia} alt='logo' />
             </a>
           </a>
-          <a href="https://www.muniurcos.gob.pe/static/media/CONVOCATORIA%20CONCURSO%20CAS%20N%C2%B0%20004-2023-MPQ.9dac4f0efe72123f2af4.pdf" target="_blank" rel="noopener noreferrer" className='logo-anchor'>   
-              <h2 className="linkConvocatoria">Convocatoria CAS N° 004-2023-MPQ. Fecha:24/08/2023 click aquí.
+          <a href="https://www.muniurcos.gob.pe/static/media/fe_erratas01_cas04.ea67dd4f43bf36a3ff1b.pdf" target="_blank" rel="noopener noreferrer" className='logo-anchor'>   
+              <h2 className="linkConvocatoria">Fe de erratas N° 01 - Convocatoria Concurso CAS N° 004-2023-MPQ: click aquí.
               </h2>              
           </a>
           
