@@ -1,70 +1,71 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+  <br>
+  <a href="https://www.muniurcos.gob.pe/"><img src="https://github.com/ElvisJorge17/PaginaWeb-Municipalidad-provincial-de-Quispicanchi/blob/main/src/images/Logos-general/logo2023.png?raw=true" alt="Markdownify" width="200"></a>
+  <br>
+  Municipalidad Provincial de Quispicanchi
+  <br>
+</h1>
 
-## Available Scripts
+<h4 align="center">Pagina web de la <a href="https://www.muniurcos.gob.pe/" target="_blank">Municipalidad Provincial de Quispicanchi</a>.</h4>
 
-In the project directory, you can run:
+<p align="center">
+  <a href="#Palabras clave">Palabras clave</a> •
+  <a href="#Como usar">Como usar</a> •
+  <a href="#download">Download</a> •
+  <a href="#credits">Credits</a> •
+  <a href="#Colaboración">Colaboración</a> •
+  <a href="#license">License</a>
+</p>
 
-### `npm start`
+![screenshot](https://github.com/ElvisJorge17/PaginaWeb-Municipalidad-provincial-de-Quispicanchi/blob/ElvisJorge/src/images/ImagenesContenido/PaginaWeb-Muniurcos.png?raw=true)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Palabras clave
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* MPQ Municipalidad Provincial de Quispicanchi
+* [KaTeX](https://khan.github.io/KaTeX/) Support
 
-### `npm test`
+* Full screen mode
+  - Write distraction free.
+* Cross platform
+  - Windows, macOS and Linux ready.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Como usar
 
-### `npm run build`
+Para ejecutar esta aplicación, necesitará [Git](https://git-scm.com) y [Node.js](https://nodejs.org/en/download/) (que viene con [ npm](http://npmjs.com)) instalado en su computadora. Desde su línea de comando:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+# Clonar el repositorio
+$ git clone https://github.com/ElvisJorge17/PaginaWeb-Municipalidad-provincial-de-Quispicanchi
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Ir al repositorio
+$ cd PaginaWeb-Municipalidad-provincial-de-Quispicanchiy
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Instalar dependencias
+$ npm install
+$ npm install react-scripts
 
-### `npm run eject`
+# Ejecute la aplicación
+$ npm start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Credits
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Este software utiliza los siguientes paquetes de código abierto:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- [Node.js](https://nodejs.org/)
+- [React](https://es.react.dev/)
+- [Boostrap](https://getbootstrap.com/)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Colaboración
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<a href="https://www.instagram.com/elvis_jorge17/">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png" width="90">
+</a>
+<a href=»elelvi.789@gmail.com[email protected]»">
+	<img src="https://i.blogs.es/16b956/gmail-nuevo-logo-google-workspace/1366_2000.jpg" width="90">
+</a>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
