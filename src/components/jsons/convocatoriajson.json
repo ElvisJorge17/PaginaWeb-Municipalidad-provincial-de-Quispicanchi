@@ -1,9 +1,15 @@
 [
   {
+    "id": 27,
+    "detalle": "Fe de erratas N° 01 - Convocatoria Concurso CAS N° 004-2023-MPQ",
+    "fecha": "05/09/2023",
+    "filepdf": "PDF/convocatoriaCas/fe_erratas01_cas04.pdf"
+  },
+  {
     "id": 26,
-    "detalle": "CONVOCATORIA CONCURSO CAS N° 004-2023-MPQ",
+    "detalle": "Convocatoria Concurso CAS N° 004-2023-MPQ",
     "fecha": "24/08/2023",
-    "filepdf": "PDF/convocatoriaCas/CONVOCATORIA CONCURSO CAS N° 004-2023-MPQ.pdf"
+    "filepdf": "PDF/convocatoriaCas/Convocatoria-CAS-004-2023-MPQ-24-08-2023.pdf"
   },
   {
     "id": 25,
