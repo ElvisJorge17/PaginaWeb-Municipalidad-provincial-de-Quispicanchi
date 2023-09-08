@@ -306,7 +306,7 @@ span:hover{
   }
   .main-nav{
       display: grid;
-      width: 100%;
+      width: 70%;
   }
   .sub-menu-link{
     position: relative;

@@ -67,10 +67,11 @@ export default function Home() {
       </div>
 
       <div className='contenedorPlazayFB'>
-        <img className='contenedorImagenPlaza' src={plaza} alt="alcalde" width={100}/>
-        <div className='contenedorFacebook'>
-          <h2 className='estiloTextoBlack'>Ultimos documentos</h2>
-        </div>
+      <br />
+      <h2 className='TituloAudiencia'> AUDIENCIA PÚBLICA DE RENDICIÓN DE CUENTAS 2023</h2><br />
+        {/* <img className='contenedorImagenPlaza' src={plaza} alt="alcalde" width={100}/> */}
+        <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2F100088963969826%2Fvideos%2F284023337591442%2F&show_text=false&width=560&t=0" 
+        width="920" height="540" style={{border:"none",overflow:"hidden"}} scrolling="no" frameborder="0" allowfullscreen="false" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
         </div>  
       <div>
         <Footer/> 

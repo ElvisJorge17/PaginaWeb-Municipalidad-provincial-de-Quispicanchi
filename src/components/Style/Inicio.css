@@ -100,10 +100,12 @@
     width: 100%;
     justify-content: center; 
     align-content: center;
-    display: flex;
-    padding: 30px;
+    display: grid;
     background: transparent;
-    gap: 10px;
+}
+.TituloAudiencia{
+    color:black;
+    font-family: Tahoma, sans-serif;
 }
 
 .contenedorSliderEInfo{
@@ -146,7 +148,7 @@
         display: flex;
     }
     .contenedorPlazayFB{
-        display: block;
+        display: none;
     }
     .contenedorImagenPlaza{
         height: 40%;
