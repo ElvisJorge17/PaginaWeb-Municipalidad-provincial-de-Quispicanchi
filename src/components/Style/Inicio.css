@@ -112,8 +112,9 @@
     height: 100%;
     width: auto;
     display: flex;
-    justify-content:space-around;
+    justify-content:center;
     margin: 4px;
+    
 }
 
 .contenedorImagenPlaza{
@@ -122,7 +123,7 @@
     border-radius: 10px;
 }
 .contenedorFacebook{
-    width: 400px;
+    width: auto;
     height: 540px;
     padding-right: 10px;
 }
@@ -133,6 +134,7 @@
     }
     .contenedorAlcalde{
       display: grid;
+      padding:2px;
     }
     
     .contenedorInformacionAlcalde{

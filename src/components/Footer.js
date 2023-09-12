@@ -1,5 +1,6 @@
 import React from 'react';
 import facebook from '../images/Logo-Redes/facebook.png'
+import correo from '../images/Logo-Redes/correo.png'
 import '../components/Style/Footer.css';
 // import { Button } from './Button';
 import { Link } from 'react-router-dom';
@@ -60,6 +61,10 @@ function Footer() {
             </a>
             <a href="https://www.facebook.com/profile.php?id=100088963969826" target="_blank" rel="noopener noreferrer">
             <img src={facebook} alt="pte" width={50} />
+            </a>
+            <a>Correo institucional</a>
+            <a href="https://mail.hostinger.com/" target="_blank" rel="noopener noreferrer">
+            <img src={correo} alt="pte" width={40}/>
             </a>
           </div>
         </div>
