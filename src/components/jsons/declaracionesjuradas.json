@@ -1,14 +1,20 @@
 [
   {
+    "id": 3,
+    "detalle": "INFORME N° 86-GAF-2023-MPQ/U",
+    "fecha": "16/08/2023",
+    "filepdf": "PDF/DeclaracionesJuradas/oficoN532-2023-A-MPQ-U.pdf"
+  },
+  {
     "id": 2,
-    "detalle": "DECLARACION JURADA DE BIENES Y RENTAS - 2023",
+    "detalle": "INFORME N° 38-GAF-2023-MPQ/U",
     "fecha": "08/08/2023",
     "filepdf": "PDF/DeclaracionesJuradas/DECLARACION JURADA DE BIENES Y RENTAS - 2023.pdf"
   },
-    {
-      "id": 1,
-      "detalle": "INFORME N° 078-GAF-2023-MPQ/U",
-      "fecha": "01/08/2023",
-      "filepdf": "PDF/DeclaracionesJuradas/declaracionjurada01.pdf"
-    }
+  {
+    "id": 1,
+    "detalle": "INFORME N° 078-GAF-2023-MPQ/U",
+    "fecha": "01/08/2023",
+    "filepdf": "PDF/DeclaracionesJuradas/declaracionjurada01.pdf"
+  }
 ]

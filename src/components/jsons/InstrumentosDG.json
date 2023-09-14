@@ -1,5 +1,11 @@
 [
   { 
+    "id": 8,
+    "detalle": "PEI AMPLIADO",
+    "fecha": "12/09/2023",
+    "filepdf": "PDF/instrumentos/PEI AMPLIADO.pdf"
+  },
+  { 
     "id": 7,
     "detalle": "MOF",
     "fecha": "25/08/2023",
