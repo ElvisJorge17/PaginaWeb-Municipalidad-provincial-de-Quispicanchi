@@ -58,21 +58,6 @@
   },
 
   {
-    "name": "Funcionarios de la Municipalidad",
-    "id": 50,
-    "children": [
-      {
-        "id": 51,
-        "name": "Funcionarios"
-      },
-      {
-        "id": 52,
-        "name": "Declaraciones juradas"
-      }
-    ]
-  },
-
-  {
     "name": "Normatividades",
     "id": 70,
     "children": [
@@ -112,11 +97,47 @@
       },
       {
         "id": 79,
-        "name": "Transparencia"
+        "name": "Transparencia",  
+        "children": [
+          {
+            "id": 80,
+            "name": "Presupuesto"
+          },
+          {
+            "id":81,
+            "name": "Proyectos de Inversion"
+          },
+          {
+            "id": 82,
+            "name": "Participacion ciudadana"
+          },
+          { 
+            "id": 83,
+            "name": "Actividades Oficiales"
+          },
+          {
+            "id": 84,
+            "name": "Acceso a la informacion publica"
+          }
+        ]
       }
     ]
   },
 
+  {
+    "name": "Funcionarios de la Municipalidad",
+    "id": 50,
+    "children": [
+      {
+        "id": 51,
+        "name": "Funcionarios"
+      },
+      {
+        "id": 52,
+        "name": "Declaraciones juradas"
+      }
+    ]
+  },
   {
     "name": "Convocatoria CAS",
     "id": 60
@@ -124,6 +145,6 @@
 
   {
     "name": "Contacto",
-    "id": 80
+    "id": 90
   }
 ]
