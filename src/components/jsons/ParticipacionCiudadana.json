@@ -1,0 +1,26 @@
+[
+    { 
+    "id": 4,
+    "detalle": "Composición del concejo de coordinacion local",
+    "fecha": "31/10/2023",
+    "filepdf": "PDF/Transparencia/ParticipacionCiudadana/composicionCoorninacionLocal.pdf"
+    },
+    { 
+    "id": 3,
+    "detalle": "Convocatoria para el concejo de coordinación local",
+    "fecha": "31/10/2023",
+    "filepdf": "PDF/Transparencia/ParticipacionCiudadana/convocatoriaCoordinacionLocal.pdf"
+    },
+    { 
+    "id": 2,
+    "detalle": "Acta del Concejo de coordinación local ",
+    "fecha": "31/10/2023",
+    "filepdf": "PDF/Transparencia/ParticipacionCiudadana/ActasConsejoCoordinacionLocal.pdf"
+    },
+    { 
+    "id": 1,
+    "detalle": "Acta de Elecciones del concejo de coordinación local",
+    "fecha": "31/10/2023",
+    "filepdf": "PDF/Transparencia/ParticipacionCiudadana/ActaEleccionCoordinacionLocal.pdf"
+    }
+]

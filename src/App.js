@@ -28,6 +28,7 @@ import DeclaracionesJuradas from './components/pages/FuncionariosMunicipalidad/D
 import FuncionariosDatos from './components/pages/FuncionariosMunicipalidad/FuncionariosDatos';
 import Portal from './components/pages/Normatividades/PortalDeTransparencia';
 import ActividadesOficiales from './components/pages/Normatividades/Transparencia/ActividadesOficiales'
+import Participacion from './components/pages/Normatividades/Transparencia/ParticipacionCiudadana';
 
 
 function App() {
@@ -54,6 +55,7 @@ function App() {
         <Route path='/Resoluciones de alcaldía' component={Resoluciones} />
         <Route path='/Directivas' component={Directivas} />
         <Route path='/Transparencia' component={Portal} />
+        <Route path='/Participacion ciudadana' component={Participacion} />
         <Route path='/Actividades Oficiales' component={ActividadesOficiales} />
         <Route path='/Ordenanzas municipales' component={OrdenanzasMunicipales} />
         <Route path='/Instrumentos de gestión' component={InstrumentosDeGestion} />
