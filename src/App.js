@@ -26,6 +26,7 @@ import ResolucionesGerencia from './components/pages/Normatividades/NormasEmitid
 import MesaDePartes from './components/pages/ServiciosMunicipales/MesaDePartesVirtual';
 import DeclaracionesJuradas from './components/pages/FuncionariosMunicipalidad/DeclaracionesJuradas';
 import FuncionariosDatos from './components/pages/FuncionariosMunicipalidad/FuncionariosDatos';
+import Portal from './components/pages/Normatividades/PortalDeTransparencia';
 
 
 function App() {
@@ -51,6 +52,7 @@ function App() {
         <Route path='/Acuerdos de concejo' component={Acuerdos} />
         <Route path='/Resoluciones de alcaldía' component={Resoluciones} />
         <Route path='/Directivas' component={Directivas} />
+        <Route path='/Transparencia' component={Portal} />
         <Route path='/Ordenanzas municipales' component={OrdenanzasMunicipales} />
         <Route path='/Instrumentos de gestión' component={InstrumentosDeGestion} />
         <Route path='/Comisiones' component={Comisiones} />
