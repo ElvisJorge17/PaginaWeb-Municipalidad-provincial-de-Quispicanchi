@@ -1,5 +1,12 @@
 [ 
   {
+    "id": 31,
+    "detalle": "Convocatoria concurso CAS 005-2023-MPQ",
+    "fecha": "26/10/2023",
+    "filepdf": "PDF/convocatoriaCas/Convocatoria-CAS-005-2023-MPQ-26-10-2023.pdf"
+  },
+   
+  {
     "id": 30,
     "detalle": "Resultados finales concurso CAS 004-2023-MPQ",
     "fecha": "14/09/2023",
