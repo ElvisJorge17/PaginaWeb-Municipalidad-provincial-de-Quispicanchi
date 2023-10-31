@@ -1,5 +1,53 @@
 [
   { 
+    "id": 16, 
+    "detalle": "PRESUPUESTO ANALÍTICO DE PERSONAL (PAP)",
+    "fecha": "26/10/2023",
+    "filepdf": "PDF/instrumentos/PAP.pdf"
+  },
+  { 
+    "id": 15, 
+    "detalle": "REGLAMENTO INTERNO DE TRABAJO (RIT)",
+    "fecha": "26/10/2023",
+    "filepdf": "PDF/instrumentos/RIT.pdf"
+  },
+  { 
+    "id": 14, 
+    "detalle": "PLAN DE DESARROLLO PROVINCIAL CONCERTADO",
+    "fecha": "12/09/2023",
+    "filepdf": "PDF/instrumentos/PDC.pdf"
+  },
+  { 
+    "id": 13,
+    "detalle": "RESOLUCIÓN DE LA CREACIÓN DE LA MUNICIPALIDAD DE QUISPICANCHI",
+    "fecha": "12/09/2023",
+    "filepdf": "PDF/instrumentos/RESOLUCION_CREACION_MUNI.pdf"
+  },
+  { 
+    "id": 12,
+    "detalle": "ORGANIGRAMA",
+    "fecha": "12/09/2023",
+    "filepdf": "PDF/instrumentos/ORGANIGRAMA.pdf"
+  },
+  { 
+    "id": 11,
+    "detalle": "CAP",
+    "fecha": "12/09/2023",
+    "filepdf": "PDF/instrumentos/CAP.pdf"
+  },
+  { 
+  "id": 10,
+  "detalle": "TUPA",
+  "fecha": "12/09/2023",
+  "filepdf": "PDF/instrumentos/TUPA_2022.pdf"
+},
+  { 
+  "id": 9,
+  "detalle": "POI",
+  "fecha": "12/09/2023",
+  "filepdf": "PDF/instrumentos/PLAN OPERATIVO INSTITUCIONAL MULTIANUAL 2021-2023.pdf"
+},
+  { 
     "id": 8,
     "detalle": "PEI AMPLIADO",
     "fecha": "12/09/2023",

@@ -1,4 +1,30 @@
-[
+[ 
+  {
+    "id": 31,
+    "detalle": "Convocatoria concurso CAS 005-2023-MPQ",
+    "fecha": "26/10/2023",
+    "filepdf": "PDF/convocatoriaCas/Convocatoria-CAS-005-2023-MPQ-26-10-2023.pdf"
+  },
+   
+  {
+    "id": 30,
+    "detalle": "Resultados finales concurso CAS 004-2023-MPQ",
+    "fecha": "14/09/2023",
+    "filepdf": "PDF/convocatoriaCas/resultadoFinalesCas04mpq.pdf"
+  },
+ 
+  {
+    "id": 29,
+    "detalle": "Programación de entrevista - Resultados de evaluación curricular - Proceso CAS 04-2023-MPQ",
+    "fecha": "13/09/2023",
+    "filepdf": "PDF/convocatoriaCas/programacionEntrevistaCas04.pdf"
+  },
+  {
+    "id": 28,
+    "detalle": "Resultados de evaluación curricular concurso CAS 04-2023-MPQ",
+    "fecha": "12/09/2023",
+    "filepdf": "PDF/convocatoriaCas/resultaEvaluacionCurricularCas04.pdf"
+  },
   {
     "id": 29,
     "detalle": "Programación de entrevista - Resultados de evaluación curricular - Proceso CAS 04-2023-MPQ",
