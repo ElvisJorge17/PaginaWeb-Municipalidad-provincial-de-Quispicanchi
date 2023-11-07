@@ -8,7 +8,7 @@ const Participacion=()=>{
    const [contacts, setContact]=useState(dataconvoc);
    return(
          <>
-         <h1 className="tituloPestañas contenedorTitulo">Documentos de participación Ciudadana</h1>
+         <h1 className="tituloPestañas contenedorTitulo">Documentos de Participación Ciudadana</h1>
          <div className="convo-container">
             <table>
             <thead>
